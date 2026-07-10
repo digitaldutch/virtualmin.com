@@ -5,7 +5,7 @@ author: "Ilia Ross"
 weight: 2332190
 ---
 
-Virtualmin offers a robust application deployment stack for PHP, supporting [multiple PHP versions](/docs/web/configuring-multiple-php-versions/). The recommended and default execution mode for PHP is PHP-FPM (FastCGI Process Manager), which provides improved performance, stability, and resource management for PHP applications.
+Virtualmin offers a robust application deployment stack for PHP, supporting [multiple PHP versions](/https://www.virtualmin.com/docs/server-components/configuring-multiple-php-versions/). The recommended and default execution mode for PHP is PHP-FPM (FastCGI Process Manager), which provides improved performance, stability, and resource management for PHP applications.
 
 ### PHP execution modes
 Virtualmin configures PHP applications to execute with user-level isolation by utilizing FPM (PHP-FPM) and FCGId/CGI wrapper (suEXEC) execution modes:
